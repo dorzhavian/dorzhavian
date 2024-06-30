@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dorzhavian" alt="dorzhavian" /></a> </p>
 
-- 🔭 I’m currently working on **A buy & sell system in the JAVA**
+- 🔭 I’m currently working on **A buy & sell system in JAVA**
 
 - 🌱 I’m currently learning **Mathematical courses and some programming**
 
