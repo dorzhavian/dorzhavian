@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dorzhavian@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18Z39uYu6Z9JaOM1DJ9I_KK-KZNVygUJR/view?usp=drive_link](https://drive.google.com/file/d/18Z39uYu6Z9JaOM1DJ9I_KK-KZNVygUJR/view?usp=drive_link)
+- 📄 Know about me [https://drive.google.com/file/d/18Z39uYu6Z9JaOM1DJ9I_KK-KZNVygUJR/view?usp=drive_link](https://drive.google.com/file/d/18Z39uYu6Z9JaOM1DJ9I_KK-KZNVygUJR/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
