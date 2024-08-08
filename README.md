@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dorzhavian" alt="dorzhavian" /></a> </p>
 
-- 🔭 I’m currently working on **A buy & sell system in JAVA**
+- 🔭 I’m currently working on **----**
 
-- 🌱 I’m currently learning **Mathematical courses and some programming**
+- 🌱 I’m currently learning **Udemy's courses**
 
 - 🤝 I’m looking for help with **First job**
 
 - 📫 How to reach me **dorzhavian@gmail.com**
 
-- 📄 Know about me [https://drive.google.com/file/d/18Z39uYu6Z9JaOM1DJ9I_KK-KZNVygUJR/view?usp=drive_link](https://drive.google.com/file/d/18Z39uYu6Z9JaOM1DJ9I_KK-KZNVygUJR/view?usp=drive_link)
+- 📄 Know about me https://drive.google.com/file/d/1nve3s2nAryIrTOIReE1gSw7F8BXdFct-/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
