@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dorzhavian" alt="dorzhavian" /></a> </p>
 
-- 🔭 I’m currently working on **----**
+- 🔭 I’m currently working on **My portfolio website**
 
 - 🌱 I’m currently learning **Udemy's courses**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dorzhavian@gmail.com**
 
-- 📄 Know about me https://drive.google.com/file/d/1nve3s2nAryIrTOIReE1gSw7F8BXdFct-/view?usp=drive_link
+- 📄 Know about me [https://drive.google.com/file/d/1nve3s2nAryIrTOIReE1gSw7F8BXdFct-/view?usp=drive_link](https://dorzhavian.github.io/Portfolio-Website/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
