@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dorzhavian@gmail.com**
 
-- 📄 Know about me [https://drive.google.com/file/d/1nve3s2nAryIrTOIReE1gSw7F8BXdFct-/view?usp=drive_link](https://dorzhavian.github.io/Portfolio-Website/)
+- 📄 Know about me [My Portfolio Website](https://dorzhavian.github.io/Portfolio-Website/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
