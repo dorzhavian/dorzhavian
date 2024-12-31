@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dorzhavian" alt="dorzhavian" /></a> </p>
 
-- 🔭 I’m currently working on **My portfolio website**
+- 🔭 I’m currently working on **Degree assignments**
 
-- 🌱 I’m currently learning **Udemy's courses**
+- 🌱 I’m currently learning **Software engeenering**
 
 - 🤝 I’m looking for help with **First job**
 
