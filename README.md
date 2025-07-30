@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dorzhavian@gmail.com**
 
-- 📄 Know about me [My Portfolio Website](https://dorzhavian.github.io/Portfolio-Website/)
+- 📄 Know about me [My Portfolio Website](https://www.dorzhavian.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
